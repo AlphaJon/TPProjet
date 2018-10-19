@@ -5,6 +5,7 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		System.out.println("test");
 		System.out.println("github edit");
+		System.out.println("branch edit");
 	}
 
 }
